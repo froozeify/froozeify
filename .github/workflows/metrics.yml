@@ -44,6 +44,7 @@ jobs:
 
       # Languages (Recently Used - Unstable)
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
