@@ -14,9 +14,9 @@ I'm **Benoit**, a passionate developer working on open-source projects.
   <img src="/metrics-languages.svg" alt="Languages">
 </picture>
 
-#### 📅 Contribution Calendar
+#### 💫 Star Lists
 <picture>
-  <img src="/metrics-isocalendar.svg" alt="Isometric Calendar">
+  <img src="/metrics-starlists.svg" alt="Star Lists">
 </picture>
 
 #### 📰 Recent Activity
