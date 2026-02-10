@@ -21,7 +21,10 @@ Check out the project code at [Narvik-app](https://github.com/Narvik-app).
 
 #### 🈷️ Languages
 <picture>
-  <img src="/metrics-languages.svg" alt="Languages">
+  <img src="/metrics-languages.svg" alt="Languages Most Used">
+</picture>
+<picture>
+  <img src="/metrics-languages-recent.svg" alt="Languages Recently Used">
 </picture>
 
 #### 💡 Mildly Interesting Facts
