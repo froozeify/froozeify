@@ -1,6 +1,16 @@
 ### Hey 👋
 
-I'm **Benoit**, a passionate developer working on open-source projects.
+I'm **Benoit**, a passionate developer working on open-source projects.  
+Currently building [**Narvik**](https://about.narvik.app/), a comprehensive management platform designed for sports clubs and associations.
+
+Key features include:
+- 👥 **Member Management**: Track history, certificates, and renewals
+- 📅 **Attendance Tracking**: Manage members and guests with ease
+- 🛒 **Point of Sale & Inventory**: Handle sales, stock alerts, and history
+- 📊 **Statistics**: Detailed reports on club activity and individual attendance
+- 📧 **Communication**: Integrated emailing system for members
+
+Check out the project code at [Narvik-app](https://github.com/Narvik-app).
 
 ---
 
@@ -14,9 +24,9 @@ I'm **Benoit**, a passionate developer working on open-source projects.
   <img src="/metrics-languages.svg" alt="Languages">
 </picture>
 
-#### 💫 Star Lists
+#### 💡 Mildly Interesting Facts
 <picture>
-  <img src="/metrics-starlists.svg" alt="Star Lists">
+  <img src="/metrics-habits.svg" alt="Habits">
 </picture>
 
 #### 📰 Recent Activity
@@ -24,15 +34,22 @@ I'm **Benoit**, a passionate developer working on open-source projects.
   <img src="/metrics-activity.svg" alt="Recent Activity">
 </picture>
 
+#### 🎩 Notable Contributions
+<picture>
+  <img src="/metrics-notable.svg" alt="Notable Contributions">
+</picture>
+
+#### 💫 Star Lists
+<picture>
+  <img src="/metrics-starlists.svg" alt="Star Lists">
+</picture>
+
 #### 🏆 Achievements
 <picture>
   <img src="/metrics-achievements.svg" alt="Achievements">
 </picture>
 
-#### 📌 Topics
-<picture>
-  <img src="/metrics-topics.svg" alt="Topics">
-</picture>
+
 
 ---
 
