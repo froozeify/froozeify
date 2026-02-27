@@ -27,31 +27,10 @@ Check out the project code at [Narvik-app](https://github.com/Narvik-app).
   <img src="/metrics-languages-recent.svg" alt="Languages Recently Used">
 </picture>
 
-#### 💡 Mildly Interesting Facts
-<picture>
-  <img src="/metrics-habits.svg" alt="Habits">
-</picture>
-
-#### 📰 Recent Activity
-<picture>
-  <img src="/metrics-activity.svg" alt="Recent Activity">
-</picture>
-
 #### 🎩 Notable Contributions
 <picture>
   <img src="/metrics-notable.svg" alt="Notable Contributions">
 </picture>
-
-#### 💫 Star Lists
-<picture>
-  <img src="/metrics-starlists.svg" alt="Star Lists">
-</picture>
-
-#### 🏆 Achievements
-<picture>
-  <img src="/metrics-achievements.svg" alt="Achievements">
-</picture>
-
 
 
 ---
