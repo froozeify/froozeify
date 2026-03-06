@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm **Benoit**, a passionate developer working on open-source projects.  
+I'm **Benoit**, a passionate developer working on open-source projects.
 Currently building [**Narvik**](https://about.narvik.app/), a comprehensive management platform designed for sports clubs and associations.
 
 Key features include:
@@ -17,11 +17,6 @@ Check out the project code at [Narvik-app](https://github.com/Narvik-app).
 #### 📊 GitHub Stats
 <picture>
   <img src="/metrics-base.svg" alt="GitHub Stats">
-</picture>
-
-#### 🈷️ Languages
-<picture>
-  <img src="/metrics-languages.svg" alt="Languages Most Used">
 </picture>
 
 #### 🎩 Notable Contributions
