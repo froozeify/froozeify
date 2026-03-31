@@ -12,6 +12,8 @@ Key features include:
 
 Check out the project code at [Narvik-app](https://github.com/Narvik-app).
 
+My quick dev env setup [repository](https://github.com/froozeify/dev_env)
+
 ---
 
 #### 📊 GitHub Stats
