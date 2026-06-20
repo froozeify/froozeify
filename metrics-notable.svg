@@ -19,8 +19,8 @@
                         <span class="name">@glpi-network</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="60.42857142857143 329"/>
-                            <text x="15" y="15" dominant-baseline="central">36</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="61.58702213279678 329"/>
+                            <text x="15" y="15" dominant-baseline="central">38</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
@@ -54,7 +54,7 @@
                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                         </svg>
                     </div>
-                    <div class="organization contribution  ">
+                    <div class="organization contribution s ">
                         <img class="organization avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEs0lEQVR4nO1dv2sbMRTW7MmQOZAps9dsgUChg8FTZq3ZAp4KGb7J682e7h8oeOjUyVungqFbJ2+ZCoZunVSuJzeH8Tl3J53ee5I+eEsIWKdP77d+KJWRkZGRkZGRkZGRESMATAHcN+QcCgDbM1L9/RQLADPq72ILALOTiT5O5gGAGVGq35iqVIF60nVj0vcjT3gnUlRCq/4ZQAlgx2DiW0XFCLyZnC2HSe4pNyoSR6sBbALY+rFlGgMJJhZRQs1RyWHy4F8KJUwbOERCpqMcWnKRSqPPQSshRICpX9g1JldbzY0zwWNIxN6aSR3tpLfBfjQ1EYcGAfLDUIfkbceAhIVKGdY8FYREbEU41AS0okzOH1yCrS1REXFD/f2sQJTYbbNGnPcXOwJn/Uyz9BiDiIxtNk98yCjCLzshICBDU38zWwR24IfkE7t3yNCBNWMRbKUJTfpC1qQ09TezRmC/UVB/L2sEzsLT2DrjGOKGMlXV7+QyCKOoChcHkzqq1Rq4iydzy0woBO5r5KiKk++4OJiM4ElgDnPfQ+B9tLnT18FchSJjf3EwGdlcHQHgCsAtgAcAcwBPAJYtMrf/d6uE5x4sCoh4m3htJ3jtKE/eTHHgPbfBcw8AE1ssffQ0+ZfkBcC1FP8RLNwFcG3NytgEtMnd0IHfx1JIRE1CpQUrIhJO5ZZ7ZbdMgIR1Q6rKx6TvB0FaMRG1T3iw9nrNXOac61fwEBlpBpPcR1acM3Q45gjzDvnB0i6yNSOZREeIB8065h0hQt/hzj0FQtpgSQoREGRCBpIzluZkQobCmjVSHxIyyhLRB0EdNJBFWSHzEBFbflDXvXwRojl3CkX0QlD7E1+EzDjXskTcBYI61/FBRsG92lvJvWIO+Iu2tIR+CKtcpKVO5stcXSkBHcOdYgwAd6TaQXQO5CbykLcYrB1EfoTlqVrUBczwJfeWwWxSD3/hJ7p68TWY0GZLM3TmBampOjOoQ6paAj/a4XdHZuAyChstgR/teJC+A97Y3yI/IwL3tvB4C4tASzajfUyYutW4Wk6gJWRhMGpT5dItDGNyCSIuQ+FPHE1V2PES3buuhXQGNdUBUIrbRTXzetWwPbueBr4gIMSM6VPs1tNCHBmND6C6cXTjOyR2IKMY5WDOUBBenr/31dByMFOF03mPiG6UMw0pXbTFwYG/eK1NRUbKwSat0555xtD+hu59lICIFOq3Pw5diLEZ+IpNXWpMEF8tbk5M2eyMVjwOJGLFzl8IewXBNJx/dRLsg4NW8DdRHZNHbi+p/QLwDcDnHlFUXDdL2NXJRVtMQ/4AeAXwHcDXMyQt2UZRkTh800Ne7XgR+3NHM4ZmzPSUXcuDYG0PFrPd1vQfdtVJJ8ZEdzuedfwlUx9jUtqz3PaWYaxaAyUVVmueub/8jFQIadGcUthLoCK2x/rSnhWAHzbJM0JElg9x3AnyxWbfPwH8ZjD5LPeXeQfqCm2XC2U+AfhoW8xHlI3cIKTp20WXVPY4tL8c0kq1OVFTqoBiCI6PGP8TFRvseYynsYjI6EdEl01qy0zEiOjRPNJiG0WCiJi/swWnsGTFWQ4XRMTKbtGZUI83dSKW0YWLyg1/ASq6k0wc51mBAAAAAElFTkSuQmCC" width="16" height="16" />
                         <span class="name">@glpi-project</span>
                     </div>
